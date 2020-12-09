@@ -32,3 +32,5 @@ Składając te wszystkie informacje w całość to renderowanie przez komponent 
 ```
 
 Spowoduje wygenerowanie menu z dwoma pozycjami przekazanymi przez props.
+
+> **Uwaga** Na chwilę obecną nie przejmuj się ostrzeżeniem związanym z [key](https://en.reactjs.org/docs/lists-and-keys.html). Ten temat bedziemy poruszać póżniej.
