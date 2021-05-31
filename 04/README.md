@@ -1,4 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React introduction #04
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e01-react-introduction` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+&nbsp;
+
+# `#04` React:  Wprowadzenie
+
 
 W poprzednim zadaniu musiałeś utworzyć komponent `<MenuItem/>` - prawda? Świetnie! Ponieważ teraz będziemy go potrzebować. To oznacza, że w tym zadaniu też powinieneś go zaimportować.
 
@@ -40,3 +45,9 @@ W poprzednim zadaniu komponent `<MenuItem/>` renderował `<li/>` dlatego wykorzy
 ```
 
 Jeśli wszystko wykonałeś poprawnie to do metody `.render` w `ReactDOM` powinieneś przekazać komponent `<Nav/>`, a na stronie powinieneś zobaczyć listę `ul > li > a`, która zawiera dwie pozycje.
+
+
+&nbsp;
+
+
+> :arrow_left: [*poprzednie zadanie*](./../04) | [*następne zadanie*](./../05) :arrow_right:
