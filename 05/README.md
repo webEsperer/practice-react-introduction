@@ -1,4 +1,10 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React Introduction #05
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e01-react-introduction` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+&nbsp;
+
+# `#05` React:  Wprowadzenie
+
+
 
 W poprzednim zadaniu stworzyliśmy dwa komponenty tj. `<Nav/>` oraz  `<Menu/>`. 
 
@@ -34,3 +40,9 @@ Składając te wszystkie informacje w całość to renderowanie przez komponent 
 Spowoduje wygenerowanie menu z dwoma pozycjami przekazanymi przez props.
 
 > **Uwaga** Na chwilę obecną nie przejmuj się ostrzeżeniem związanym z [key](https://en.reactjs.org/docs/lists-and-keys.html). Ten temat bedziemy poruszać póżniej.
+
+
+&nbsp;
+
+
+> :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:
