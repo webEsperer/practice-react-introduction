@@ -1,4 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React introduction #01
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e01-react-introduction` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+
+&nbsp;
+
+# `#01` React:  Wprowadzenie
+
 
 Twoim pierwszym zadaniem jest uruchomienie Webpack-a, który będzie wykonywał transpilację utworzonego kodu z JSX do JavaScript.
 
@@ -8,4 +13,9 @@ Za każdym razem będziesz musiał modyfikować zawartość tej zmiennej i ponow
 
 Pamiętaj również, że musimy mieć pobrane paczki z npm, które będziemy wykorzystywać podczas pracy z React. Wiesz jak je zainstalować?
 
-W pliku `app.js` musisz utworzyć kod, który przy pomocy React-a i JSX doda do elementu `#root` nagłówek pierwszego  poziomu tj. `<h1/>` z napisem `React działa!`. 
+W pliku `app.js` musisz utworzyć kod, który przy pomocy React-a i JSX doda do elementu `#root` nagłówek pierwszego  poziomu tj. `<h1/>` z napisem `React działa!`.
+
+
+&nbsp;
+
+> :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
