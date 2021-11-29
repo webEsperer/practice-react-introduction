@@ -13,4 +13,4 @@ Cały komponent zapisz w osobny pliku, np. `MenuItem.js`, oraz użyj importu i e
 
 &nbsp;
 
-> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../04) :arrow_right:
+> :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:
