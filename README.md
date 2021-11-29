@@ -1,15 +1,14 @@
-
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
 
 # React: Wprowadzenie
 
-React jest biblioteką JavaScript, która wymusza na programiście trzymanie się pewnych zasad pisania kodu. To ułatwia wdrożenie się w istniejący projekt, jak również pracę w zespole.
+React jest biblioteką JavaScript, która wymusza na programiście trzymanie się pewnych zasad pisania kodu. To ułatwia zarówno wdrożenie się w istniejący projekt, jak i pracę w zespole.
 
-Podstawową strukturą budowania aplikacji w Reakcie są komponenty, dlatego większość z zadań dotyczy właśnie tego zagadnienia. Tutaj również należy zwrócić uwagę na propsy, które pozwalają przekazać informacje do wnętrza komponentu - ten element także będziesz musiał wykorzystać.
+Podstawową strukturą budowania aplikacji w Reakcie są komponenty, dlatego większość z zadań dotyczy właśnie tego zagadnienia. Tutaj również należy zwrócić uwagę na propsy, które pozwalają przekazać informacje do wnętrza komponentu – ten element także będziesz musiał wykorzystać.
 
-W celu łatwiejszego pisania kodu twórcy Reacta zaproponowali specjalną składnię JSX, która pojawi się w każdym z zadań, abyś szybko się do niej przyzwyczaił.
+W celu łatwiejszego pisania kodu twórcy Reacta zaproponowali specjalną składnię JSX. Pojawi się ona w każdym z zadań, abyś szybko się do niej przyzwyczaił.
 
 &nbsp;
 
