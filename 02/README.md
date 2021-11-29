@@ -6,11 +6,11 @@
 
 
 
-Tym razem Twoim zadaniem będzie utworzenie komponentu `<Header/>` na dwa sposoby tj.:
+Tym razem Twoim zadaniem będzie utworzenie komponentu `<Header/>` na dwa sposoby:
 * przy wykorzystaniu funkcji
-* przy wykorzystniau klas z ES2015
+* przy wykorzystaniu klasy z ES2015.
 
-Pamiętaj, że w kodzie nie mogą istnieć dwa komponenty o tej samej nazwie więc albo dodaj odpowiednie sufixy tj. `<HeaderFn/>` oraz  `<HeaderCl/>` lub zakomentuj jeden jak będziesz robił drugi.
+Pamiętaj, że w kodzie nie mogą istnieć dwa komponenty o tej samej nazwie, więc albo dodaj odpowiednie sufixy, np. `<HeaderFn/>` oraz  `<HeaderCl/>`, lub zakomentuj jeden, gdy będziesz robił drugi.
 
 Wspomiany komponent ma renderować znacznik `<header/>` z napisam `Moja pierwsza strona w React`. 
 
