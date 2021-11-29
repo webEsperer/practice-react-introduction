@@ -50,4 +50,4 @@ Na końcu do metody `.render()` w `ReactDOM` powinieneś przekazać komponent `<
 &nbsp;
 
 
-> :arrow_left: [*poprzednie zadanie*](./../04) | [*następne zadanie*](./../05) :arrow_right:
+> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../05) :arrow_right:
