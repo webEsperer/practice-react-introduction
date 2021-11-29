@@ -11,7 +11,7 @@ W poprzednim zadaniu stworzyliśmy dwa komponenty: `<Nav/>` oraz  `<Menu/>`.
 
 Teraz zapisz je w osobnych plikach i zaimportuj wszystkie niezbędne elementy w pliku `app.js`.
 
-Dodatkowo, używając `PropTypes`, zdefiniuj typy dla propsów oraz wymagane elementy.
+Dodatkowo, używając `PropTypes`, zdefiniuj typy dla propsów oraz określ propsy wymagane (`.isRequired`).
 
 ## Zadanie dodatkowe
 
