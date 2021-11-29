@@ -5,13 +5,13 @@
 # `#04` React:  Wprowadzenie
 
 
-W poprzednim zadaniu musiałeś utworzyć komponent `<MenuItem/>` - prawda? Świetnie! Ponieważ teraz będziemy go potrzebować. To oznacza, że w tym zadaniu też powinieneś go zaimportować.
+W poprzednim zadaniu utworzyłeś komponent `<MenuItem/>`, prawda? To świetnie, ponieważ teraz będziemy go potrzebować! To oznacza, że w tym zadaniu też powinieneś go zaimportować.
 
-Naszym zadaniem jest utworzenie dodatkowych komponentów (na razie zrób to w pliku `app.js`) o nazwie `<Nav/>` oraz `<Menu />`.
+Teraz stwórz dodatkowe komponenty (na razie zrób to w pliku `app.js`) o nazwie `<Nav/>` oraz `<Menu />`.
 
-Komponent `<Nav/>` musi renderować znacznik `<nav>` oraz zawartość menu tj.
+Komponent `<Nav/>` ma renderować znacznik `<nav>` oraz zawartość menu, tj.:
 
-```
+```html
 <nav>
     <ul>
         <li><a href="/">home</a></li>
@@ -20,8 +20,8 @@ Komponent `<Nav/>` musi renderować znacznik `<nav>` oraz zawartość menu tj.
 </nav>
 ```
 
-Jednak to komponent `<Menu/>` renderuje `</ul>` oraz jego zawartość tj.
-```
+Jednak to komponent `<Menu/>` ma renderować `</ul>` oraz jego zawartość, tj.:
+```html
 <ul>
     <li><a href="/">home</a></li>
     <li><a href="/contact">kontakt</a></li>
@@ -29,22 +29,22 @@ Jednak to komponent `<Menu/>` renderuje `</ul>` oraz jego zawartość tj.
 ```
 
 Dlatego docelowo komponent `<Nav/>` będzie renderował:
-```
+```jsx
 <nav>
     <Menu />
 </nav>
 ```
 
-W poprzednim zadaniu komponent `<MenuItem/>` renderował `<li/>` dlatego wykorzystamy go w `<Menu />`, który będzie zwracał poniższą strukturę JSX:
+W poprzednim zadaniu komponent `<MenuItem/>` renderował `<li/>`, dlatego wykorzystamy go w `<Menu />`, który będzie zwracał poniższą strukturę JSX:
 
-```
+```jsx
 <ul>
     <MenuItem text="home" url="/">
     <MenuItem text="kontakt" url="/contact">
 </ul>
 ```
 
-Jeśli wszystko wykonałeś poprawnie to do metody `.render` w `ReactDOM` powinieneś przekazać komponent `<Nav/>`, a na stronie powinieneś zobaczyć listę `ul > li > a`, która zawiera dwie pozycje.
+Na końcu do metody `.render()` w `ReactDOM` powinieneś przekazać komponent `<Nav/>`. Jeśli wszystko wykonałeś poprawnie, to na stronie zobaczysz listę `ul > li > a`, która zawiera dwie pozycje.
 
 
 &nbsp;
