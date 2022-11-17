@@ -44,7 +44,7 @@ W poprzednim zadaniu komponent `<MenuItem/>` renderował `<li/>`, dlatego wykorz
 </ul>
 ```
 
-Na końcu do metody `.render()` w `ReactDOM` powinieneś przekazać komponent `<Nav/>`. Jeśli wszystko wykonałeś poprawnie, to na stronie zobaczysz listę `ul > li > a`, która zawiera dwie pozycje.
+Na końcu do metody `.render()` w `root` powinieneś przekazać komponent `<Nav/>`. Jeśli wszystko wykonałeś poprawnie, to na stronie zobaczysz listę `ul > li > a`, która zawiera dwie pozycje.
 
 
 &nbsp;
