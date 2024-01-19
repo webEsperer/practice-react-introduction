@@ -15,6 +15,8 @@ Pamiętaj również, żeby pobrać paczki z npm, które będziemy wykorzystywać
 
 W pliku `app.js` stwórz kod, który przy pomocy Reacta i JSX doda do elementu `#root` nagłówek pierwszego  poziomu, tj. `<h1/>` z napisem `React działa!`.
 
+> Uwaga! W pliku `package.json` mamy zapisaną informacje o wersji 17 dla `react` oraz `react-dom`. Jeśli chcesz skorzysać z nowej formy osadzania root-a to musisz podmienić wersje przez instalacje wersji 18 tj. `npm i react@18 react-dom@18.`
+
 
 &nbsp;
 
